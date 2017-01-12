@@ -1,0 +1,12 @@
+*.pdf
+*.aux
+*.log
+*.syntex.gz
+*.toc
+*.bib
+*.swp
+*.iml
+.idea
+/out
+*.class
+.DS_Store

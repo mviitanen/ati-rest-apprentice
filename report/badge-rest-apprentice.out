@@ -1,0 +1,18 @@
+\BOOKMARK [1][-]{Doc-Start}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.1}{REST Architecture}{}% 2
+\BOOKMARK [2][-]{subsection.1.1}{Res Architecture}{section.1}% 3
+\BOOKMARK [3][-]{subsubsection.1.1.1}{Procedural Programming}{subsection.1.1}% 4
+\BOOKMARK [1][-]{section.2}{Guiding Principles}{}% 5
+\BOOKMARK [2][-]{subsection.2.1}{Constraints, Goals, Guiding Principles}{section.2}% 6
+\BOOKMARK [3][-]{subsubsection.2.1.1}{Inheritance}{subsection.2.1}% 7
+\BOOKMARK [3][-]{subsubsection.2.1.2}{Composition}{subsection.2.1}% 8
+\BOOKMARK [3][-]{subsubsection.2.1.3}{Static Methods}{subsection.2.1}% 9
+\BOOKMARK [3][-]{subsubsection.2.1.4}{Inner Classes}{subsection.2.1}% 10
+\BOOKMARK [1][-]{section.3}{Hypermedia}{}% 11
+\BOOKMARK [2][-]{subsection.3.1}{Some Topic}{section.3}% 12
+\BOOKMARK [1][-]{section.4}{Web Technologies}{}% 13
+\BOOKMARK [2][-]{subsection.4.1}{Some Topic}{section.4}% 14
+\BOOKMARK [1][-]{section.5}{Enunciate}{}% 15
+\BOOKMARK [2][-]{subsection.5.1}{Something}{section.5}% 16
+\BOOKMARK [1][-]{section*.2}{References}{}% 17
+\BOOKMARK [1][-]{section*.3}{Appendix}{}% 18
